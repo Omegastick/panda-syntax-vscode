@@ -27,7 +27,7 @@
     {
       "scope": "keyword.operator",
       "settings": {
-        "foreground": "#E6E6E6"
+        "foreground": "#bdd5d8"
       }
     },
     {
@@ -519,12 +519,6 @@
     },
     {
       "scope": "variable.language.special",
-      "settings": {
-        "foreground": "#ff4d82"
-      }
-    },
-    {
-      "scope": "keyword.operator",
       "settings": {
         "foreground": "#ff4d82"
       }
