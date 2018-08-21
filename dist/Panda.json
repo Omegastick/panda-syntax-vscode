@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "author": "Siamak Mokhtari, Extended by Dan Hedgecock",
+  "author": "Siamak Mokhtari, Extended by Dan Hedgecock and Isaac Poulton",
   "name": "Panda Syntax – Beta",
   "colorSpaceName": "sRGB",
   "semanticClass": "theme.dark.sublime_panda_syntax",
@@ -514,7 +514,19 @@
     {
       "scope": "variable.parameter.function.language.special",
       "settings": {
-        "foreground": "#FF9AC1"
+        "foreground": "#ff4d82"
+      }
+    },
+    {
+      "scope": "variable.language.special",
+      "settings": {
+        "foreground": "#ff4d82"
+      }
+    },
+    {
+      "scope": "keyword.operator",
+      "settings": {
+        "foreground": "#ff4d82"
       }
     }
   ],
