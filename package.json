@@ -1,9 +1,9 @@
 {
 	"name": "theme-panda",
-	"displayName": "Panda Theme",
-	"description": "Panda Theme for Visual Studio Code.",
-	"version": "1.2.0",
-	"publisher": "tinkertrain",
+	"displayName": "Panda Theme Omegastick",
+	"description": "Panda Theme for Visual Studio Code. Forked by Omegastick",
+	"version": "1.3.0",
+	"publisher": "Omegastick",
 	"engines": {
 		"vscode": "^1.20.0"
 	},
@@ -26,7 +26,7 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Panda Syntax",
+				"label": "Panda Syntax Omegastick",
 				"uiTheme": "vs-dark",
 				"path": "./dist/Panda.json"
 			}
