@@ -514,13 +514,13 @@
     {
       "scope": "variable.parameter.function.language.special",
       "settings": {
-        "foreground": "#ff4d82"
+        "foreground": "#c3f3ff"
       }
     },
     {
       "scope": "variable.language.special",
       "settings": {
-        "foreground": "#ff4d82"
+        "foreground": "#c3f3ff"
       }
     }
   ],
@@ -546,7 +546,7 @@
     "merge.incomingContentBackground": "#FFB86C40",
     "editor.background": "#292A2B",
     "editor.foreground": "#E6E6E6",
-    "editorCursor.foreground": "#FF4B82",
+    "editorCursor.foreground": "#E6E6E6",
     "editorRuler.foreground": "#B084EB60",
     "editorBracketMatch.border": "#83f7e5",
     "editorCodeLens.foreground": "#FFB86C40",
@@ -609,8 +609,8 @@
     "tab.activeBorder": "#83f7e5",
     "tab.inactiveBackground": "#242526",
     "tab.inactiveForeground": "#E6E6E6",
-    "terminalCursor.background": "#E6E6E6",
-    "terminalCursor.foreground": "#FF4B82",
+    "terminalCursor.background": "#bebebe",
+    "terminalCursor.foreground": "#E6E6E6",
     "terminal.ansiBlue": "#45A9F9",
     "terminal.ansiBrightBlack": "#757575",
     "terminal.ansiBrightBlue": "#6FC1FF",
